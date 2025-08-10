@@ -1,6 +1,6 @@
 # Fazil-resume
 Name: Mohd Fazil  
-Email: mohdfazilfalaknisha@gmail.com  
+Email: mohdfazilashrafi786@gmail.com  
 Phone: 9368725549  
 Location: Pilibhit, Uttar Pradesh, India  
 GitHub: https://github.com/fazilashrafi  
@@ -18,7 +18,6 @@ Certifications:
 
 Technical Skills:  
 - Frontend: HTML, CSS, JavaScript, React (Learning)  
-- Backend: Java (Core Completed)  
 - Tools: Git, GitHub, VS Code  
 - Others: Responsive Design, Basic SEO, Chrome DevTools
 

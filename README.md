@@ -17,7 +17,8 @@ Certifications:
 - CTET – 2019
 
 Technical Skills:  
-- Frontend: HTML, CSS, JavaScript, React (Learning)  
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js 
 - Tools: Git, GitHub, VS Code  
 - Others: Responsive Design, Basic SEO, Chrome DevTools
 
@@ -26,7 +27,7 @@ Projects:
    GitHub: https://github.com/fazilashrafi/Flip-Profile-Card  
 2. Travel Landing Card – A modern UI landing card  
    GitHub: https://github.com/fazilashrafi/Travel-Landing-Card  
-3. Responsive Login Page – Clean login layout  
+3. Intractive profile-card- A Intractive profile card using React
    GitHub: https://github.com/fazilashrafi/Login-Page
 
 Languages:  

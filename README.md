@@ -7,7 +7,7 @@ GitHub: https://github.com/fazilashrafi
 LinkedIn: https://www.linkedin.com/in/fazil-ashraf-711365281  
 
 Career Objective:  
-To secure a challenging position as a Full Stack Developer (React + Java) where I can utilize my skills, continuously learn, and contribute to the growth of the organization while achieving my personal goal of becoming financially independent.
+To secure a challenging position as a Full Stack Developer (React + Node.js) where I can utilize my skills, continuously learn, and contribute to the growth of the organization while achieving my personal goal of becoming financially independent.
 
 Education:  
 - Bachelor of Arts (BA), MJPRU Bareilly – 2016

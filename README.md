@@ -27,7 +27,7 @@ Projects:
    GitHub: https://github.com/fazilashrafi/Flip-Profile-Card  
 2. Travel Landing Card – A modern UI landing card  
    GitHub: https://github.com/fazilashrafi/Travel-Landing-Card  
-3. Intractive profile-card- A Intractive profile card using React
+3. Interactive profile-card- A Interactive profile card using React
    GitHub: https://github.com/fazilashrafi/Login-Page
 
 Languages:  
